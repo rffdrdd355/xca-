@@ -1,4 +1,4 @@
-##Download_xca - Free download and install on Windows 2025
+## Download_xca - Free download and install on Windows 2025
 
  xca Browser Security, a full-service web browser with built-in security frameworks. Use the internet more efficiently and take more control over your connection. You can block malicious content like viruses and trojan applications with ease from the xca hub. There’s also the option to choose what file extensions are safe to download and verify and manage SSL certificates with more ease than before. 
 
